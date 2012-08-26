@@ -12,5 +12,7 @@
     "node": "0.8.x",
     "npm": "1.1.x"
   },
-  "scripts": {}
+  "scripts": {
+    "test": "mocha -r mocha-cakes"
+  }
 }
