@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+node_modules/.bin/mocha -r mocha-cakes -R spec test/*-spec.coffee
